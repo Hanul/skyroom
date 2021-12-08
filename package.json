@@ -6,5 +6,6 @@
     "types": "./lib/index.d.ts",
     "main": "./lib/index.js",
     "dependencies": {
+        "eventcontainer": "^0.0.5"
     }
 }
